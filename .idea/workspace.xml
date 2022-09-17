@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="587fc79d-6ee5-43f3-8829-3d278cbd353f" name="Changes" comment="Hollow_Rectangle// or box">
-      <change afterPath="$PROJECT_DIR$/src/Half_Pyramid.java" afterDir="false" />
+    <list default="true" id="587fc79d-6ee5-43f3-8829-3d278cbd353f" name="Changes" comment="half pyramid">
+      <change afterPath="$PROJECT_DIR$/src/Inverted_HalfPyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Half_Pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Half_Pyramid.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,13 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Half_Pyramid">
+}</component>
+  <component name="RunManager" selected="Application.Inverted_HalfPyramid">
     <configuration name="Half_Pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Half_Pyramid" />
       <module name="Pattern" />
@@ -51,6 +53,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Inverted_HalfPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inverted_HalfPyramid" />
+      <module name="Pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Square" />
       <module name="Pattern" />
@@ -60,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inverted_HalfPyramid" />
         <item itemvalue="Application.Half_Pyramid" />
         <item itemvalue="Application.Hollow_Rectangle" />
         <item itemvalue="Application.Square" />
@@ -89,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663420406086</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="half pyramid">
+      <created>1663420964131</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663420964131</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,17 +123,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Square pattern" />
     <MESSAGE value="Hollow_Rectangle// or box" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hollow_Rectangle// or box" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Half_Pyramid.java</url>
-          <line>1</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="half pyramid" />
+    <option name="LAST_COMMIT_MESSAGE" value="half pyramid" />
   </component>
 </project>

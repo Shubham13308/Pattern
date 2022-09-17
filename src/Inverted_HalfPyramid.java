@@ -1,18 +1,14 @@
 import java.util.*;
-public class Half_Pyramid {
+public class Inverted_HalfPyramid {
     public static void main(String[] args) {
         int n=4;
-        // for outer loop
-        for(int i=1;i<=n;i++){
+        // for outer loop to print in decreasing order
+        for(int i=n;i>=1;i--){
             // for inner loop
-            for (int j=1;j<=i;j++){
-                // j is dependent on i
+            for(int j=1;j<=i;j++){
                 System.out.print("*");
             }
-
             System.out.println();
         }
-
     }
-
 }
