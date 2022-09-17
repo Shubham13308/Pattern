@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="587fc79d-6ee5-43f3-8829-3d278cbd353f" name="Changes" comment="half pyramid">
-      <change afterPath="$PROJECT_DIR$/src/Inverted_HalfPyramid.java" afterDir="false" />
+    <list default="true" id="587fc79d-6ee5-43f3-8829-3d278cbd353f" name="Changes" comment="Inverted_HalfPyramid">
+      <change afterPath="$PROJECT_DIR$/src/Right_Triangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Half_Pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Half_Pyramid.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Inverted_HalfPyramid">
+  <component name="RunManager" selected="Application.Right_Triangle">
     <configuration name="Half_Pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Half_Pyramid" />
       <module name="Pattern" />
@@ -60,6 +59,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Right_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Right_Triangle" />
+      <module name="Pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Square" />
       <module name="Pattern" />
@@ -69,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Right_Triangle" />
         <item itemvalue="Application.Inverted_HalfPyramid" />
         <item itemvalue="Application.Half_Pyramid" />
         <item itemvalue="Application.Hollow_Rectangle" />
@@ -106,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663420964131</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Inverted_HalfPyramid">
+      <created>1663422032514</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663422032514</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +138,7 @@
     <MESSAGE value="Square pattern" />
     <MESSAGE value="Hollow_Rectangle// or box" />
     <MESSAGE value="half pyramid" />
-    <option name="LAST_COMMIT_MESSAGE" value="half pyramid" />
+    <MESSAGE value="Inverted_HalfPyramid" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inverted_HalfPyramid" />
   </component>
 </project>
