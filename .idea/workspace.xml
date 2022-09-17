@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="587fc79d-6ee5-43f3-8829-3d278cbd353f" name="Changes" comment="Square pattern">
-      <change afterPath="$PROJECT_DIR$/src/Hollow_Rectangle.java" afterDir="false" />
+    <list default="true" id="587fc79d-6ee5-43f3-8829-3d278cbd353f" name="Changes" comment="Hollow_Rectangle// or box">
+      <change afterPath="$PROJECT_DIR$/src/Half_Pyramid.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Hollow_Rectangle">
+  <component name="RunManager" selected="Application.Half_Pyramid">
+    <configuration name="Half_Pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Half_Pyramid" />
+      <module name="Pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Hollow_Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hollow_Rectangle" />
       <module name="Pattern" />
@@ -53,6 +60,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Half_Pyramid" />
         <item itemvalue="Application.Hollow_Rectangle" />
         <item itemvalue="Application.Square" />
       </list>
@@ -74,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663419211776</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hollow_Rectangle// or box">
+      <created>1663420406086</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663420406086</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +105,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Square pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Square pattern" />
+    <MESSAGE value="Hollow_Rectangle// or box" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hollow_Rectangle// or box" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Half_Pyramid.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
