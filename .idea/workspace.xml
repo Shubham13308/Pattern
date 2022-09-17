@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="587fc79d-6ee5-43f3-8829-3d278cbd353f" name="Changes" comment="Half_pyramid_With_Number">
-      <change afterPath="$PROJECT_DIR$/src/Inverted_Pyramid_WithNumbers.java" afterDir="false" />
+    <list default="true" id="587fc79d-6ee5-43f3-8829-3d278cbd353f" name="Changes" comment="Inverted_Pyramid_WithNumbers">
+      <change afterPath="$PROJECT_DIR$/src/Floyds_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zero_One_Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +38,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Inverted_Pyramid_WithNumbers">
-    <configuration name="Half_Pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Half_Pyramid" />
+  <component name="RunManager" selected="Application.Zero_One_Triangle">
+    <configuration name="Floyds_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Floyds_Triangle" />
       <module name="Pattern" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -46,13 +48,6 @@
     </configuration>
     <configuration name="Half_pyramid_With_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Half_pyramid_With_Number" />
-      <module name="Pattern" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Inverted_HalfPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inverted_HalfPyramid" />
       <module name="Pattern" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,13 +67,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zero_One_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zero_One_Triangle" />
+      <module name="Pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zero_One_Triangle" />
+        <item itemvalue="Application.Floyds_Triangle" />
         <item itemvalue="Application.Inverted_Pyramid_WithNumbers" />
         <item itemvalue="Application.Half_pyramid_With_Number" />
         <item itemvalue="Application.Right_Triangle" />
-        <item itemvalue="Application.Inverted_HalfPyramid" />
-        <item itemvalue="Application.Half_Pyramid" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663423493556</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Inverted_Pyramid_WithNumbers">
+      <created>1663424077610</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663424077610</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +163,7 @@
     <MESSAGE value="Inverted_HalfPyramid" />
     <MESSAGE value="Right_Triangle" />
     <MESSAGE value="Half_pyramid_With_Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Half_pyramid_With_Number" />
+    <MESSAGE value="Inverted_Pyramid_WithNumbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inverted_Pyramid_WithNumbers" />
   </component>
 </project>
