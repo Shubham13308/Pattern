@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="587fc79d-6ee5-43f3-8829-3d278cbd353f" name="Changes" comment="Inverted_Pyramid_WithNumbers">
-      <change afterPath="$PROJECT_DIR$/src/Floyds_Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zero_One_Triangle.java" afterDir="false" />
+    <list default="true" id="587fc79d-6ee5-43f3-8829-3d278cbd353f" name="Changes" comment="Zero_One_Triangle">
+      <change afterPath="$PROJECT_DIR$/src/Butterfly_Pattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,29 +31,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Shubham/Desktop/java/Pattern"
   }
-}</component>
-  <component name="RunManager" selected="Application.Zero_One_Triangle">
-    <configuration name="Floyds_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Floyds_Triangle" />
+}]]></component>
+  <component name="RunManager" selected="Application.Butterfly_Pattern">
+    <configuration name="Butterfly_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Butterfly_Pattern" />
       <module name="Pattern" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Half_pyramid_With_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Half_pyramid_With_Number" />
+    <configuration name="Half_Pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Half_Pyramid" />
       <module name="Pattern" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inverted_Pyramid_WithNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inverted_Pyramid_WithNumbers" />
+    <configuration name="Pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pyramid" />
       <module name="Pattern" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zero_One_Triangle" />
-        <item itemvalue="Application.Floyds_Triangle" />
-        <item itemvalue="Application.Inverted_Pyramid_WithNumbers" />
-        <item itemvalue="Application.Half_pyramid_With_Number" />
+        <item itemvalue="Application.Butterfly_Pattern" />
+        <item itemvalue="Application.Pyramid" />
+        <item itemvalue="Application.Half_Pyramid" />
         <item itemvalue="Application.Right_Triangle" />
+        <item itemvalue="Application.Zero_One_Triangle" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663424077610</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Zero_One_Triangle">
+      <created>1663430363197</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663430363197</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +171,7 @@
     <MESSAGE value="Right_Triangle" />
     <MESSAGE value="Half_pyramid_With_Number" />
     <MESSAGE value="Inverted_Pyramid_WithNumbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inverted_Pyramid_WithNumbers" />
+    <MESSAGE value="Zero_One_Triangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zero_One_Triangle" />
   </component>
 </project>
