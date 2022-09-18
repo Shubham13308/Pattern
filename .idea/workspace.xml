@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="587fc79d-6ee5-43f3-8829-3d278cbd353f" name="Changes" comment="Zero_One_Triangle">
-      <change afterPath="$PROJECT_DIR$/src/Butterfly_Pattern.java" afterDir="false" />
+    <list default="true" id="587fc79d-6ee5-43f3-8829-3d278cbd353f" name="Changes" comment="Butterfly_Pattern">
+      <change afterPath="$PROJECT_DIR$/src/Solid_Rhombus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
     "last_opened_file_path": "C:/Users/Shubham/Desktop/java/Pattern"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Butterfly_Pattern">
+  <component name="RunManager" selected="Application.Solid_Rhombus">
     <configuration name="Butterfly_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Butterfly_Pattern" />
       <module name="Pattern" />
@@ -67,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zero_One_Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zero_One_Triangle" />
+    <configuration name="Solid_Rhombus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solid_Rhombus" />
       <module name="Pattern" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solid_Rhombus" />
         <item itemvalue="Application.Butterfly_Pattern" />
         <item itemvalue="Application.Pyramid" />
         <item itemvalue="Application.Half_Pyramid" />
         <item itemvalue="Application.Right_Triangle" />
-        <item itemvalue="Application.Zero_One_Triangle" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663430363197</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Butterfly_Pattern">
+      <created>1663483659744</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1663483659744</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +179,7 @@
     <MESSAGE value="Half_pyramid_With_Number" />
     <MESSAGE value="Inverted_Pyramid_WithNumbers" />
     <MESSAGE value="Zero_One_Triangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zero_One_Triangle" />
+    <MESSAGE value="Butterfly_Pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Butterfly_Pattern" />
   </component>
 </project>
